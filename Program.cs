@@ -10,7 +10,8 @@ namespace BasicProgrammingSeries
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome To Basic Programming Series");
+            // Console.WriteLine("Welcome To Basic Programming Series");
+            FindFactor.Factor();
             Console.ReadKey();
         }
     }

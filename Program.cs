@@ -11,6 +11,7 @@ namespace BasicProgrammingSeries
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To Basic Programming Series");
+            FlipCoinProgram.FlipCoin();
             Console.ReadKey();
         }
     }
